@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "question": "'Popping Crease' is associated with which games? ?",
+      "choices": ["Swimming", "Cricket", "Water polo", "Lawn Tennis"],
+      "answer": "Cricket"
+    },
+    {
+      "question": "Who invented the BALLPOINT PEN ?",
+      "choices": ["Biro Brothers", "Waterman Brothers", "Bicc Brothers", "Write Brothers"],
+      "answer": "Biro Brothers"
+    },
+    {
+      "question": "The highest peak of peninsular India is:",
+      "choices": ["Dodabeta", " Anaimudi", " K2", "Kanchanjangha"],
+      "answer": "Anaimudi"
+    },
+    {
+      "question": "Granite and Basalt are the examples of:",
+      "choices": ["Sedimentary Rocks", "Metamorphic Rock", " Igneous Rocks", "Volcanic Rock"],
+      "answer": " Igneous Rocks"
+    },
+    {
+      "question": "National Income estimates in India are prepared by ?",
+      "choices": ["Planning Commission", "Indian statistical Institute", "Reserve Bank of India", "Central statistical"],
+      "answer": "Planning Commission"
+    },
+    {
+      "question": "In India, Agriculture income is calculated by",
+      "choices": ["Output method", "Input method", "Expenditure method", "Commodity flow method"],
+      "answer": "Output method"
+    },
+    {
+      "question": "The main source of National Income in India is ?",
+      "choices": ["Service Sector", "Agriculture", "Trade Sector", "Industrial Secto"],
+      "answer": "Service Sector"
+    },
+    {
+      "question": "Who is the guardian of fundamental Rights enumerated in Indian Constitution ?",
+      "choices": ["President", "Constitution", "Supreme Court", "Parliament"],
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Which one of the following river flows between Vindhyan and Satpura ranges?",
+      "choices": ["Narmada", "Mahanadi", "Netravati", "Ganga"],
+      "answer": "Narmada"
+    }
+  ]
+}
